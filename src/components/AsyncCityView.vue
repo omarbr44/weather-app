@@ -6,8 +6,7 @@
       class="text-white p-4 bg-weather-secondary w-full text-center"
     >
       <p>
-        You are currently previewing this city, click the "+"
-        icon to start tracking this city.
+         click + to start tracking this city.
       </p>
     </div>
     <!-- Weather Overview -->
